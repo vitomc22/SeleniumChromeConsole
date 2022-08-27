@@ -1,0 +1,4 @@
+Sat Aug 27 13:07:13 BRT 2022 SEVERE ---> https://chercher.tech/vendor/bootstrap/js/bootstrap.min.js 5:17547 Uncaught Error: Bootstrap dropdown require Popper.js (https://popper.js.org)
+Sat Aug 27 13:07:13 BRT 2022 SEVERE ---> https://chercher.tech/js/index8.js 38:41 Uncaught TypeError: Cannot read properties of null (reading 'setAttribute')
+Sat Aug 27 13:07:14 BRT 2022 SEVERE ---> https://chercher.tech/practice/explicit-wait 0:0 Uncaught SyntaxError: Unexpected end of JSON input
+Sat Aug 27 13:07:14 BRT 2022 SEVERE ---> https://chercher.tech/js/index8.js 9:123 Uncaught TypeError: Cannot read properties of null (reading 'setAttribute')
